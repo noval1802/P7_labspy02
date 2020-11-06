@@ -30,6 +30,7 @@ else:
 
 > Saya tidak akan melanjutkan fungsi print karna sudah saya jelaskan pada tugas sebeumnya.<br>
 Saya akan menjelaskan langkah-langkah nya : 
+<br>
 
 ```` python
 print("Masukan Bilangan Ke-1 :")
@@ -43,34 +44,44 @@ bilangan3=int(input())
 
 * Dan sekarang kita menentukan logika untuk menentukan bilanga terbesar dari angka yang diinputkan diatas. <br>
 Dengan menjelaskan fungsi-fungsi pada source yang akan digunakan diatas : 
+<br>
+
 ```` python 
 if (bilangan1 > bilangan2) and (bilangan1 > bilangan3) :
 ````
- Pada syntax diatas bahwa terdapat dua pengecekan pada angka pertama yaitu: 
-    1. *(bilangan1 > bilangan2)* -> Apakkah angka pertama lebih besar dari angka kedua **DAN**
-    2. *(Bilangan1 > bilangan3)* -> Apakah angka pertama lebih besar dari angka ketiga.
+ Pada syntax diatas bahwa terdapat dua pengecekan pada angka pertama yaitu: <br>
+    1. *(bilangan1 > bilangan2)* -> Apakkah angka pertama lebih besar dari angka kedua **DAN** <br>
+    2. *(Bilangan1 > bilangan3)* -> Apakah angka pertama lebih besar dari angka ketiga. <br>
 <br>
+
 * Apabila jika pengecekan bersifat benar (Angka Pertama Lebih Besar Dari Angka Kedua Dan Tiga), maka sytem akan menampilkan output berupa : <br>
+
 ```` python
 print(f"Bilangan pertama ({bilangan1}) lebih besar dari bilangan ketiga")
 ````
+
 Dan akan memunculkan hasil seperti berikut : **Bilangan pertama ({bilangan1}) lebih besar dari bilangan kedua dan ketiga** <br>
+
 * Jika dalam pengecekan ada yang salah atau nilai pertama tidak lebih besar dari nilai kedua dan ketiga, maka akan melakukan pengecekan selanjutya ke fungsi **elif** yaitu dengan source berikut 
+
 ```` python
 elif (bilangan2 > bilangan1) and (bilangan2 > bilangan3) :
 ````
-> Pada  syntax diatas dijelaskan bahwa terdapat dua pengecekan pada angka kedua nya, yaitu : 
-    1. *(bilangan2 > bilangan1)* = Apakah bilangan kedua lebih besar dari bilangan pertama **dan**
-    2. *(bilangan2 > bilangan3)* = Apakah bilangan kedua lebih besar dari bilangan ketiga.
+
+ Pada  syntax diatas dijelaskan bahwa terdapat dua pengecekan pada angka kedua nya, yaitu : <br>
+    1. *(bilangan2 > bilangan1)* = Apakah bilangan kedua lebih besar dari bilangan pertama **dan** <br>
+    2. *(bilangan2 > bilangan3)* = Apakah bilangan kedua lebih besar dari bilangan ketiga. <br>
 <br>
 
 ```` python
 print(f"Bilangan kedua ({bilangan2)} lebih besar dari bilangan pertama dan ketiga")
 ````
+
 Dan akan menampilkan hasil seperti : **Bilangan kedua ({bilangan2)} lebih besar dari bilangan pertama dan ketiga** 
 <br>
 
 * Seperti langkah di atas, jika dalam pengecekan salah atau bilangan kedua lebih kecil dari bilangan pertama dan ketiga system akan melanjutkan ke pengecekan selanjutnya : 
+
 > Untuk pengecekan selanjutnya saya akan melakuka pengecekan berupa *Semua Bilangan Sama Besar Nya*
 <br>
 
