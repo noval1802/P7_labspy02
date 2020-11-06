@@ -46,7 +46,7 @@ Dengan menjelaskan fungsi-fungsi pada source yang akan digunakan diatas :
 ```` python 
 if (bilangan1 > bilangan2) and (bilangan1 > bilangan3) :
 ````
-> Pada syntax diatas bahwa terdapat dua pengecekan pada angka pertama yaitu: 
+ Pada syntax diatas bahwa terdapat dua pengecekan pada angka pertama yaitu: 
     1. *(bilangan1 > bilangan2)* -> Apakkah angka pertama lebih besar dari angka kedua **DAN**
     2. *(Bilangan1 > bilangan3)* -> Apakah angka pertama lebih besar dari angka ketiga.
 <br>
