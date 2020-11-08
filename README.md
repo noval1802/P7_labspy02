@@ -4,7 +4,7 @@ Repository ini dibuat memenuhi tugas pertemuan 7 Bahasa Pemograman (modul prakti
 ### Menentukan Bilangan Terbesar Dari Nilai Yang Diinputkan 
  > Pada pertemuan ke-7 ini saya mendapatkan tugas dari Dosen bahasa pemograman Teknik Informatika - Universitas Peita Bangsa. Untuk membuat aplikasi yang menentukan bilangan terbesar dari tiga nilai yang client/user inputkan menggunakan bahasa program python.
 
-Pada repository ini saya akan menjelaskan *Flowchart* yang telah saya buat dan bisa di liahat berikut file nya. [flowchat tugas pertemuan 7 menentukan bilangan terbesar yang diinput](flowerchat.pdf)
+Pada repository ini saya akan menjelaskan *Flowchart* yang telah saya buat dan bisa dilihat berikut file nya. [flowchat tugas pertemuan 7 menentukan bilangan terbesar yang diinput](flowerchat.pdf)
 
 > Berikut source code yang saya buat untuk menjadi aplikasi yang bisa menentukan bilangan terbesar
 ```` python
@@ -28,7 +28,7 @@ else:
 ````
 <br>
 
-> Saya tidak akan melanjutkan fungsi print karna sudah saya jelaskan pada tugas sebeumnya.<br>
+> Saya tidak akan melanjutkan fungsi print karena sudah saya jelaskan pada tugas sebeumnya.<br>
 Saya akan menjelaskan langkah-langkah nya : 
 <br>
 
@@ -46,7 +46,7 @@ bilangan3=int(input())
 ````
 <br>
 
-* Langkah kedua yaitu saatnya menentukan logika untuk menemukan bilangan terbesar dari angja yang akan di inputkan diatas. <br>
+* Langkah kedua yaitu saatnya menentukan logika untuk menemukan bilangan terbesar dari angka yang akan di inputkan diatas. <br>
 Dengan menjelaskan fungsi-fugsi pada source code yang dilampirkan diatas : <br>
 
 
