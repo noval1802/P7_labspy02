@@ -1,3 +1,4 @@
+
 print("Masukan Bilangan Ke-1 :")
 bilangan1=int(input())
 print("Masukan Bilangan Ke-2 :")

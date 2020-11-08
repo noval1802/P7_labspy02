@@ -1,5 +1,5 @@
 # Pertemuan 7 - labspy
-Repository ini dibuat memenuhi tugas pertemuan 7 Bahasa Pemograman (modul praktikum 2) - Teknik Infotatika <br><br>
+Repository ini dibuat memenuhi tugas pertemuan 7 Bahasa Pemograman (modul praktikum 2) - Teknik Informatika <br><br>
 
 ### Menentukan Bilangan Terbesar Dari Nilai Yang Diinputkan 
  > Pada pertemuan ke-7 ini saya mendapatkan tugas dari Dosen bahasa pemograman Teknik Informatika - Universitas Peita Bangsa. Untuk membuat aplikasi yang menentukan bilangan terbesar dari tiga nilai yang client/user inputkan menggunakan bahasa program python.
@@ -12,7 +12,7 @@ print("Masukan Bilangan Ke-1 :")
 bilangan1=int(input())
 print("Masukan Bilangan Ke-2 :")
 bilangan2=int(input())
-print("Masukan Bilalngan ke-3 :")
+print("Masukan Bilangan ke-3 :")
 bilangan3=int(input())
 
 print("\n")
@@ -130,27 +130,3 @@ Saya akan menampilkan contoh berupa gambar, dengan menggunakan hasil output **Bi
 <br>
     3.Dan sekarang saya akan menampilkan contoh dengan bilangan sama besar dengan bilangan pertama dan kedua. <br>
 ![bilangan sama besar dengan bilangan pertama dan kedua](bilangan%20terbesar/bilangan-.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
